@@ -1,7 +1,3 @@
-Got it! Let me rewrite the description for your **Discord Username Checker**. Here's the updated and polished version:
-
----
-
 # Discord Username Checker 🕵️‍♂️
 
 Welcome to the **Discord Username Checker**, a powerful and user-friendly tool designed to help you find available usernames on Discord. This tool consists of two main components: a **Wordlist Generator** and a **Username Checker**. Whether you're looking to generate random usernames or check their availability, this tool has got you covered.
