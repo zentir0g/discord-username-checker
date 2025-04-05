@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=eiUkKuf98gM
 
 ## Community Support 👥
 
-Join our community for updates, support, and discussions: [Discord Community](https://discord.gg/W6JfvA4y66).
+Join our community for updates, support, and discussions: [Discord Community](https://discord.com/invite/nCyKKRAC9u).
 
 ---
 
